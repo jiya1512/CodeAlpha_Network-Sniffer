@@ -39,4 +39,4 @@ A lightweight and efficient Python-based **Network Sniffer Tool** designed to ca
 ```bash
 git clone https://github.com/jiya1512/CodeAlpha_Network-Sniffer.git
 pip install scapy
-sudo python3 Network_Sniffer.py
+sudo python3 CodeAlpha_Network-Sniffer/Network_Sniffer.py
