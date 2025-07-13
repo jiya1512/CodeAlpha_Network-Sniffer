@@ -1,4 +1,4 @@
-# CodeAlpha_Network-Sniffer
+#Network-Sniffer
 
 A lightweight and efficient Python-based **Network Sniffer Tool** designed to capture, analyze, and display real-time network traffic across interfaces. This tool leverages low-level packet inspection to help cybersecurity professionals, network analysts, and ethical hackers monitor network activities and identify potential threats or anomalies.
 
@@ -37,6 +37,6 @@ A lightweight and efficient Python-based **Network Sniffer Tool** designed to ca
 ## ⚙️ Installation & Usage
 
 ```bash
-git clone https://github.com/jiya1512/CodeAlpha_Network-Sniffer.git
+git clone https://github.com/jiya1512/Network-Sniffer.git
 pip install scapy
-sudo python3 CodeAlpha_Network-Sniffer/Network_Sniffer.py
+sudo python3 Network-Sniffer/Network_Sniffer.py
